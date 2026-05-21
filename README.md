@@ -15,6 +15,7 @@
 > Built to demonstrate real-world IA métier capabilities aligned with the ogmah stack.
 
 ![Dashboard screenshot](docs/screenshot-dashboard.png)
+![Forecast screenshot](docs/screenshot-forecast.png)
 
 ## What it does
 

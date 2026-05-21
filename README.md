@@ -14,6 +14,8 @@
 > Demo project showcasing AI/ML engineering skills for restaurant management.
 > Built to demonstrate real-world IA métier capabilities aligned with the ogmah stack.
 
+![Dashboard screenshot](docs/screenshot-dashboard.png)
+
 ## What it does
 
 OgmahDemo is a full-stack intelligent assistant for restaurant operators. It transforms raw business data (recipes, ingredient purchases, daily sales, stock levels) into actionable intelligence:
